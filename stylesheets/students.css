@@ -1,0 +1,19 @@
+.student-name {
+  width: 200px;
+  height: 120px;
+  float: left;
+}
+.students{
+  width: 100%;
+  display: block;
+  float: left;
+}
+.support{
+  width: 100%;
+  display: block;
+  float: left;
+}
+#main_content {
+  padding-top: 40px;
+  height: 850px;
+}

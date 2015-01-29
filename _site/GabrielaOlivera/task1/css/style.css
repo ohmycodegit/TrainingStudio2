@@ -1,0 +1,35 @@
+/*
+
+margin: arriba derecha abajo izquierda; osea en el sentido de las agujas del reloj
+si es q le pasamos dos numeros nada mas queda asi
+
+margin: arriba/abajo derecha/izquierda;
+
+osea, margin:15px 20px; significa margin de arriba y abajo 15px y de izq y derecha 20px
+
+si pasamos un solo parametro, este numero se aplica para los 4 lados
+
+*/
+body {
+    background-color: #F95385;
+}
+
+h1 {
+    color: #66FB00;
+    text-align: center;
+}
+.sobre-mi{
+color: #066B95;
+}
+
+p:hover {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+.avatar{
+	border-radius: 50%;
+}
+img{
+	margin: 0 auto;
+	display: block;
+}
